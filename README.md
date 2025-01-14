@@ -10,5 +10,5 @@ This project is a real-time chat application built with **Node.js** and **Socket
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SrNexar/socket.io-node.js
+   git clone https://github.com/SrNexar/socket.io-node.js.git
    cd socketio-example
